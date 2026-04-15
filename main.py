@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Configuração da página
-st.set_page_config(page_title="ZPL Converter | Empresa", page_icon="🏷️", layout="wide")
+st.set_page_config(page_title="Conversor GHPC", page_icon="🏷️", layout="wide")
 
 # --- BARRA LATERAL (CONFIGURAÇÕES) ---
 with st.sidebar:
